@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Subhajit Roy</h1>
-<img align="left" alt="Coding" width="1000" src="https://camo.githubusercontent.com/8e5a0b0c4e42dfe72e6e48ee1056b634c08ffc52cdc5a0991e4be8814bf9ed17/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303338372e676966">
+
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/7608bbbac5010ead62e76061d5adf826/26f56857bb40500a-e7/s500x750/2c135339c41661ee9f41c95ff7ca353baacfe2bd.gif">
 
